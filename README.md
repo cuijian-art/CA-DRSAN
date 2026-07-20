@@ -1,2 +1,2 @@
-# CA-DRSAN
-A coordinate attention-guided deep residual sub-domain adaptation network for feature transfer
+# CA-DSARN
+A coordinate attention-guided deep sub-domain adaptation residual network for feature transfer
